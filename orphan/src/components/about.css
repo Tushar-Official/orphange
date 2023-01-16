@@ -1,0 +1,21 @@
+.aboutchild {
+    display: flex;
+    justify-content: space-around;
+   height: 100px;
+   margin-top: -5px;
+}
+.aboutchild{
+    background-color: rgb(236, 233, 233);
+    font-size: 20px;
+    font-family: 'Secular One', sans-serif;
+    
+}
+h2{
+    color:#1f85de;
+    text-decoration: none;
+    
+}
+.aboutchild a{
+    text-decoration: none;
+    width: 200px;
+}

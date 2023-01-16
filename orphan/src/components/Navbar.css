@@ -1,0 +1,49 @@
+.heading{
+  
+    height: 130px;
+    background-color: white;
+    
+    
+}
+.heading img{
+    
+    width: 140px;
+    height: 100px;
+    margin-top: -1px;
+    margin-left: -1px;
+    border-radius: 50%;
+    box-shadow: 5%;
+}
+.care{
+    display: flex;
+    justify-content: center;
+    margin-top: -95px;
+}
+.care h1{
+    font-size: 34px;
+    font-family: 'Archivo Black', sans-serif;
+    width: 650px;
+    color:#1f85de;
+    
+}
+
+.menu {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+}
+.menu a{
+    margin-top: -65px;
+    padding: 8px 72px 23px 15px;
+    text-decoration: none;
+}
+.menu button{
+    width: 130px;
+    height: 41px;
+    font-size: 15px;
+    font-family: 'Secular One', sans-serif;
+    background-color: rgb(25, 94, 212) ;
+    color: white;
+    border-color: white;
+    border-radius: 5px 5px 5px 5px;
+}

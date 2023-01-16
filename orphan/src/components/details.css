@@ -1,0 +1,10 @@
+
+.o-data{
+    border:1px solid black;
+    display: flex;
+   box-sizing: border-box;
+    text-align: center;
+    flex-direction: column;
+    
+    position: relative;
+}
